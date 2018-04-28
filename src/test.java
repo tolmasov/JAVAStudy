@@ -12,7 +12,7 @@ public class test {
         long ci;
         long im;
 
-        im = 5280*12;
+        im = 5280*120;
         ci = im*im*im;
         System.out.println(ci);
 
